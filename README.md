@@ -1,5 +1,7 @@
-# NexTask
+NexTask
+
 A productivity-focused task management application for creating, organizing, prioritizing, and tracking tasks with categories and completion progress.
+
 <div align="center">
 
 ⚡ NexTask
@@ -7,13 +9,6 @@ A productivity-focused task management application for creating, organizing, pri
 Turn tasks into progress.
 
 A clean, focused and modern task management application built with React to help you organize daily work, prioritize what matters, and track your progress.
-
-<br />
-
-
-
-
-
 
 </div>
 
@@ -96,7 +91,7 @@ GitHub — Source code management
 
 🧠 React Concepts Used
 
-NexTask is also a practical React project for understanding and applying:
+NexTask is a practical React project for understanding and applying:
 
 Functional Components
 
@@ -282,7 +277,7 @@ git checkout -b feature/your-feature
 git add .
 
 # Commit
-git commit -m "Add: your feature"
+git commit -m "Add: your-feature"
 
 # Push
 git push origin feature/your-feature
